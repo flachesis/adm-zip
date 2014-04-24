@@ -8,22 +8,22 @@
         "archive",
         "unzip"
     ],
-    "homepage": "http://github.com/cthackers/adm-zip",
-    "author": "Nasca Iacob <sy@another-d-mention.ro> (https://github.com/cthackers)",
+    "homepage": "http://github.com/flachesis/adm-zip",
+    "author": "Nasca Iacob <sy@another-d-mention.ro> (https://github.com/flachesis)",
     "bugs": {
-        "email": "sy@another-d-mention.ro",
-        "url": "https://github.com/cthackers/adm-zip/issues"
+        "email": "fates.lachesis@gmail.com",
+        "url": "https://github.com/flachesis/adm-zip/issues"
     },
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://raw.github.com/cthackers/adm-zip/master/MIT-LICENSE.txt"
+            "url": "https://raw.github.com/flachesis/adm-zip/master/MIT-LICENSE.txt"
         }
     ],
     "main": "adm-zip.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cthackers/adm-zip.git"
+        "url": "https://github.com/flachesis/adm-zip.git"
     },
     "engines": {
         "node": ">=0.3.0"
