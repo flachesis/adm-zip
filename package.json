@@ -23,7 +23,7 @@
     "main": "adm-zip.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/flachesis/adm-zip.git"
+        "url": "git://github.com/flachesis/adm-zip.git"
     },
     "engines": {
         "node": ">=0.3.0"
